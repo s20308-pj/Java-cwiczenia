@@ -1,4 +1,4 @@
-package petle;
+package Part.petle;
 
 import java.util.ArrayList;
 import java.util.List;

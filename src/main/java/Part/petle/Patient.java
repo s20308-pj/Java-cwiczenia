@@ -1,4 +1,4 @@
-package petle;
+package Part.petle;
 
 public class Patient {
     private String firstName;

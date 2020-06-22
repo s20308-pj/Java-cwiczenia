@@ -1,4 +1,4 @@
-package petle;
+package Part.petle;
 
 //Napisz program symulujący system do planowania wizyt w szpitalu. Program powinien składać się z trzech klas:
 //
